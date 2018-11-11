@@ -1,3 +1,12 @@
+
+
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="riqbizi-chandran-sheik-a1a351175"><a class="LI-simple-link" href='https://in.linkedin.com/in/riqbizi-chandran-sheik-a1a351175?trk=profile-badge'>Riqbizi chandran Sheik</a></div>
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/riqbizi/riqbizi.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
